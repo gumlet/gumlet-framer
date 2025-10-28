@@ -1,8 +1,12 @@
 {
   "id": "2dd6a3",
   "name": "Gumlet Video",
+  "version": "1.0.2",
   "modes": [
     "canvas"
   ],
-  "icon": "/icon.svg"
+  "icon": "/round-logo.png",
+  "permissions": [
+    "addComponentInstance"
+  ]
 }
